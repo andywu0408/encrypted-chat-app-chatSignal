@@ -1,5 +1,9 @@
 # ChatSignal: A Web Based AES Encrypted Chat App
+Capstone project at UC Davis, a fully encrypted, serverless chat app. 
 
+Tech-stack:
+- front-end: React.js, Javascript, CSS, HTML, WebSocket, Ajax, Axios, Antd, Jquery
+- back-end: AWS, Java, Node.js, Express
 <img src=chat-signal/Documentation/ChatroomDemo.png width="1291" height="520">
 
 ## Demo on youtube
